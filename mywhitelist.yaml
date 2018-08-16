@@ -1,0 +1,10 @@
+generalwhitelist:
+  CVE-2016-2090: libbsd
+  CVE-2017-16914: linux
+  CVE-2017-9984: linux
+images:
+  ubuntu:
+    CVE-2017-5230: Java
+    CVE-2017-5230: XSX
+  alpine:
+    CVE-2017-3261: SE
